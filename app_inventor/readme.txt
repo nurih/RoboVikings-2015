@@ -6,7 +6,6 @@ Files for the 2015 FTC Res-Q challange
 [MyRobotController.aia] 
 	Sample op modes for controlling a motor and a servo using a gamepad.
 
-<<<<<<< HEAD
 [arm_angle_test]
 	Sample op mode to move motor with encoder a certain angle based on game controller right and left triggers.
 =======
@@ -15,4 +14,6 @@ Files for the 2015 FTC Res-Q challange
 	All-in-one aia with manual and autonomous modes.
 	Operates drive motors, slide, scissors, swipers.
 
->>>>>>> dd37a1dab4bdb3694f50a975faf1d480425bed60
+[JAMS1.xml]
+	XML configuration file for JAMS_one.aia project.
+	Place this file on the ZTE robot-controller phone, path is: PHONE/FIRST/JAMS1.xml
