@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Robot>
+    <MotorController name="Drive Motors" serialNumber="AL00XQND">
+        <Motor name="motor_1" port="1" />
+        <Motor name="motor_2" port="2" />
+    </MotorController>
+    <DeviceInterfaceModule name="Device Interface Module 2" serialNumber="AL00VFF5">
+        <AdafruitColorSensor name="color_sensor" port="5" />
+    </DeviceInterfaceModule>
+    <MotorController name="Action Motors" serialNumber="AL00XPKQ">
+        <Motor name="slide_motor" port="1" />
+        <Motor name="scissor_motor" port="2" />
+    </MotorController>
+    <ServoController name="Servos" serialNumber="AI02RMQR">
+        <Servo name="servo_1" port="1" />
+        <Servo name="servo_2" port="6" />
+    </ServoController>
+</Robot>
