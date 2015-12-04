@@ -14,5 +14,6 @@
     <ServoController name="Servos" serialNumber="AI02RMQR">
         <Servo name="servo_1" port="1" />
         <Servo name="servo_2" port="6" />
+        <Servo name="servo_3" port="3" />
     </ServoController>
 </Robot>
