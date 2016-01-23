@@ -7,8 +7,12 @@
     <DeviceInterfaceModule name="Device Interface Module 2" serialNumber="AL00VFF5">
         <AdafruitColorSensor name="color_sensor" port="5" />
         <TouchSensor name="touch_sensor_1" port="0" />
-        <TouchSensor name="touch_sensor_2" port="1" />
-    </DeviceInterfaceModule>
+        
+<TouchSensor name="touch_sensor_2" port="1" />
+    
+<TouchSensor name="touch_sensor_3" port="2" />
+    
+</DeviceInterfaceModule>
     <MotorController name="Action Motors" serialNumber="AL00XPKQ">
         <Motor name="slide_motor" port="1" />
         <Motor name="scissor_motor" port="2" />
